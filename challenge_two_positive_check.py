@@ -1,6 +1,6 @@
-def positive_check(num1, num2, num3):
+def positive_check(a, b, c):
     pos = 0
-    pos = pos + 1 if num1 > 0 else pos
-    pos = pos + 1 if num2 > 0 else pos
-    pos = pos + 1 if num3 > 0 else pos
+    pos = pos + 1 if a > 0 else pos
+    pos = pos + 1 if b > 0 else pos
+    pos = pos + 1 if c > 0 else pos
     return pos > 1
