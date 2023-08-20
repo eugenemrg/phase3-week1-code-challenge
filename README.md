@@ -24,7 +24,10 @@ Given a lowercase string that has alphabetic characters only and no spaces, retu
 
 # Installation
 
-- Clone/Download the code from the repository and run it on any terminal with python enabled e.g. > python3 challenge_one_time_convert.py
+- Clone/Download the code from the repository and run it on any terminal with python enabled (comments can be removed to test the solution), example:
+```
+> python3 challenge_one_time_convert.py
+```
 
 # Language(s)
 - Python
