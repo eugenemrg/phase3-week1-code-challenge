@@ -10,3 +10,4 @@ def positive_check(a, b, c):
 # print(positive_check(-14, -3, -4))
 # print(positive_check(4, 6, 10))
 # print(positive_check(4, -6, 9))
+# print(positive_check(2, 0, 0))
